@@ -12,12 +12,12 @@ Untuk menjalankan model analisis sentimen Hugging Face dalam lingkungan server g
 - **Integrasi Kerangka Kerja Caikit**: Menyederhanakan operasi model dengan menggunakan kerangka kerja Waktu Caikit.
 - **Hugging Face Models**: Memanfaatkan model klasifikasi sentimen Hugging Face yang sudah terlatih.
 
-## Installation
+## Pemasangan
 1. **Salin Repositori**
    Salin repositori ini ke. komputer lokal Anda:
    ```bash
    git clone https://github.com/nandarisma/sentiment_analisist.git.
-2. 2. Instalasi Dependensi
+2. Instalasi Dependensi
 Instal semua dependensi yang diperlukan:
    ```bash
    pip install -r requirements.txt
